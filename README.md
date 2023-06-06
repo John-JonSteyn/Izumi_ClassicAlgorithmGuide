@@ -10,7 +10,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <a href="https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/">
+  <a href="https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/">
     <img src="images/logo.png" alt="Logo" width="600">
   </a>
 
@@ -21,12 +21,12 @@
   <p align="center">
     Teaching you algorithms which you'll never forget - nor spell correctly, including Collatz's Conjecture, Fibonacci and Sieve of Eratosthenes.
     <br />
-    <a href="https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/"><strong>View Source Code »</strong></a>
+    <a href="https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/"><strong>View Source Code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/issues">Report Bug</a>
+    <a href="https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/issues">Request Feature</a>
+    <a href="https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,15 +80,15 @@ Current Algorithms:
 
 Izumi is meant to make the user feel as comfortable as possible, which lead to the decision of creating a persona for the program.
 <br><br>
-[![Intro](https://raw.githubusercontent.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/main/images/screenshotIzumi.png)]((https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/blob/main/images/screenshotIzumi.png))
+[![Intro](https://raw.githubusercontent.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/main/images/screenshotIzumi.png)]((https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/blob/main/images/screenshotIzumi.png))
 <br><br>
 Izumi aims to minimise the user's need to supply input unnecessary to the explanation of an algorithm, and as such all algorithms are explained sequentially without the user's need for their selection.
 <br><br>
-[![Collatz](https://raw.githubusercontent.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/main/images/screenshotCollatz.png)](https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/blob/main/images/screenshotCollatz.png)
+[![Collatz](https://raw.githubusercontent.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/main/images/screenshotCollatz.png)](https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/blob/main/images/screenshotCollatz.png)
 <br><br>
 Izumi also sements each algorithm into bite-sized explanations, waiting for the user to press a key before continuing - making the learning program as long as necessary or only as short as needed for each individual user.
 <br><br>
-[![Eratosthienes](https://raw.githubusercontent.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/main/images/screenshotEratosthenes.png)](https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/blob/main/images/screenshotEratosthenes.png)
+[![Eratosthienes](https://raw.githubusercontent.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/main/images/screenshotEratosthenes.png)](https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/blob/main/images/screenshotEratosthenes.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ Izumi also sements each algorithm into bite-sized explanations, waiting for the 
     - [ ] Français
     - [ ] Português
 
-See the [open issues](https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -152,14 +152,14 @@ I'd like to acknowledge Karan and his project list, which greatly inspired not o
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Bearded-Viking/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
-[contributors-url]: https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Bearded-Viking/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
-[forks-url]: https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/network/members
-[stars-shield]: https://img.shields.io/github/stars/Bearded-Viking/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
-[stars-url]: https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Bearded-Viking/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
-[issues-url]: https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/issues
-[license-shield]: https://img.shields.io/github/license/Bearded-Viking/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
-[license-url]: https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/John-JonSteyn/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
+[contributors-url]: https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/John-JonSteyn/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
+[forks-url]: https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/network/members
+[stars-shield]: https://img.shields.io/github/stars/John-JonSteyn/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
+[stars-url]: https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/stargazers
+[issues-shield]: https://img.shields.io/github/issues/John-JonSteyn/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
+[issues-url]: https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/issues
+[license-shield]: https://img.shields.io/github/license/John-JonSteyn/Izumi_ClassicAlgorithmGuide.svg?style=for-the-badge
+[license-url]: https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/blob/master/LICENSE.txt
 
